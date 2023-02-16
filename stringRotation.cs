@@ -1,3 +1,4 @@
+using System.Text;
 public class StringRotation
 {
     public static string stringRotation(string s, int n)
